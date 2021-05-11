@@ -1,0 +1,89 @@
+
+ .nav{
+    text-align: right;
+    display:inline ;
+    text-align: right;
+    padding: 10px;
+    text-decoration: none; 
+ }
+.img{
+    height: 5px;
+    width:3x;
+}
+
+h1{
+    font-size: 40px;
+    font: size 50px;
+    font-style:italic;
+    text-align: left;
+    background-clip: padding-box;
+}
+h1{
+    font-weight: 30px;
+    text-align:left;
+}
+.nav{
+    float: right;
+
+
+}
+
+    a {color:blue;
+      border:rosybrown;}
+      a:hover{ color:red;
+    }
+
+      a.active,a:hover{
+          border: 1pc;
+          transition: 5s;
+      }
+      .text{
+          text-align:center;
+          padding: 45;
+      }
+        
+             body{
+            background-image:url(images/NSHUTI2.jpeg);
+        } 
+      
+       body{
+           background-image:url(images/hihihi.jpg)
+        }
+       h2{
+           text-align: right;
+           font-size: 30px;
+           font-style: normal;
+       }
+
+    h3{
+        text-align: right;
+        font-size: 30px;
+        font-style:oblique;
+     }
+     h3{
+        font-size: 30px;
+        font-weight: 20px;
+        text-align:right;
+    }
+    h3{
+        text-align:right;
+        font-size: 15px;
+        font-style: normal;
+        font-display: 3px;
+    }
+     
+.myBackground{
+    background-image: url("images/hihi.jpg");
+}
+ .background{
+    background-image:url("images/hihihi.jpg");
+}
+.row {
+display: flex;
+}
+.column{
+    flex: 50%;
+}
+.column2{
+    padding-left: 30%;
+}
